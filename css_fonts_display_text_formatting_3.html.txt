@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Demo</title>
+    <link rel="stylesheet" href="style_3.css">
+</head>
+<body>
+
+    <h1>CSS Text, Fonts & Display Demo</h1>
+
+    <!-- Text Formatting -->
+    <p class="text-demo">
+        Welcome to CSS Learning. This text demonstrates
+        color, alignment, decoration, spacing, and transformation.
+    </p>
+
+    <!-- Fonts -->
+    <p class="font-demo">
+        This text demonstrates Font Family, Size, Weight and Style.
+    </p>
+
+    <!-- Display Properties -->
+    <div class="display-demo">
+
+        <div class="box block">Block</div>
+
+        <span class="box inline">Inline 1</span>
+        <span class="box inline">Inline 2</span>
+
+        <div class="box inline-block">Inline-Block</div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+/* Page Background */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Text Color */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Border & Background Example */
+.box {
+    width: 300px;
+    padding: 20px;
+
+    color: white;                    /* Text Color */
+    background-color: green;         /* Background Color */
+
+    border: 4px solid navy;          /* Border */
+    border-radius: 10px;             /* Rounded Corners */
+
+    margin: 20px auto;
+    text-align: center;
+}

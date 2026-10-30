@@ -1,0 +1,28 @@
+.menu {
+    list-style: none;
+    width: 200px;
+    padding: 0;
+    margin: 0;
+    background-color: navy;
+}
+
+.menu a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border-bottom: 1px solid white;
+}
+
+.menu a:hover {
+    background-color: orange;
+}
+
+/*list-style: none;       Removes bullets */
+display: inline-block; /* Horizontal menu */
+display: block;        /* Vertical menu */
+background-color;      /* Menu color */
+color;                 /* Text color */
+padding;               /* Space inside menu */
+text-decoration:none;  /* Removes underline */
+:hover                 /* Mouse hover effect */

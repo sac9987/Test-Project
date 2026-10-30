@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightyellow;
+}
+
+h1 {
+    color: darkblue;
+}
+
+/* Demo Box */
+.box {
+    width: 300px;              /* Width */
+    height: 150px;             /* Height */
+
+    background-color: lightgreen;
+
+    border: 3px solid green;
+
+    outline: 4px dashed red;   /* Outline */
+    outline-offset: 5px;       /* Gap between border & outline */
+
+    margin: 50px auto;
+    line-height: 150px;        /* Centers text vertically */
+}

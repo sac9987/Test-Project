@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Width Height Outline Demo</title>
+    <link rel="stylesheet" href="style_2.css">
+</head>
+<body>
+
+    <h1>CSS Width, Height & Outline Demo</h1>
+
+    <div class="box">
+        This is a demo box
+    </div>
+
+</body>
+</html>
